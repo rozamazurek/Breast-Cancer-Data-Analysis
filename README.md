@@ -39,12 +39,12 @@ Multiple visualization techniques were used to better understand relationships b
 
 <p align="center">
 <img src="images/histogram.png" width="350"/> 
-<img src="images/histogram1.png" width="350"/>
+<img src="images/histogram2.png" width="350"/>
 </p>
 
 <p align="center">
 <img src="images/boxplot.png" width="350"/> 
-<img src="images/boxplot1.png" width="350"/>
+<img src="images/boxplot2.png" width="350"/>
 </p>
 
 **Linear regression plots**
@@ -177,15 +177,6 @@ The project was implemented using:
 - scikit-learn – machine learning models  
 - matplotlib – data visualization  
 - seaborn – advanced visualizations  
-
----
-
-## Features
-
-- Data Processing – Cleaning and preprocessing breast cancer dataset  
-- Statistical Analysis – Computing basic statistical summaries  
-- Visualization – Generating various types of plots to explore data trends  
-- Saving outcomes of the analysis into one file  
 
 ---
 
